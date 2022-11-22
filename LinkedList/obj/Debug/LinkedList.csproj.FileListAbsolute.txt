@@ -1,0 +1,13 @@
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+D:\icloud\OneDrive - HTL Krems\Documents\HTL\Softwareentwicklung\SEW3\CSharpBsp\03_LinkedLists\03_x_GenericList_EmptyWithSort\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+D:\icloud\OneDrive - HTL Krems\Documents\HTL\Softwareentwicklung\SEW3\CSharpBsp\03_LinkedLists\03_x_GenericList_EmptyWithSort\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+D:\icloud\OneDrive - HTL Krems\Documents\HTL\Softwareentwicklung\SEW3\CSharpBsp\03_LinkedLists\03_x_GenericList_EmptyWithSort\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+D:\icloud\OneDrive - HTL Krems\Documents\HTL\Softwareentwicklung\SEW3\CSharpBsp\03_LinkedLists\03_x_GenericList_EmptyWithSort\LinkedList\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+D:\icloud\OneDrive - HTL Krems\Documents\HTL\Softwareentwicklung\SEW3\CSharpBsp\03_LinkedLists\03_x_GenericList_EmptyWithSort\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\icloud\OneDrive - HTL Krems\Documents\HTL\Softwareentwicklung\SEW3\CSharpBsp\03_LinkedLists\03_x_GenericList_EmptyWithSort\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+D:\icloud\OneDrive - HTL Krems\Documents\HTL\Softwareentwicklung\SEW3\CSharpBsp\03_LinkedLists\03_x_GenericList_EmptyWithSort\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

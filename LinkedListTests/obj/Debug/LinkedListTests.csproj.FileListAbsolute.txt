@@ -1,0 +1,8 @@
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedListTests\bin\Debug\LinkedListTests.dll
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedListTests\bin\Debug\LinkedListTests.pdb
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedListTests\bin\Debug\LinkedList.exe
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedListTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedListTests\bin\Debug\LinkedList.pdb
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedListTests\obj\Debug\LinkedListTests.csprojResolveAssemblyReference.cache
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedListTests\obj\Debug\LinkedListTests.dll
+D:\home\bibi\Aktuell\HTL\HTL_Krems\Softwareentwicklung\SEW3\SJ2016_17\c#_bsp\09_Generic\LinkedList\LinkedListTests\obj\Debug\LinkedListTests.pdb
